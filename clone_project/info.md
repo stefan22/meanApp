@@ -1,11 +1,6 @@
 # MEAN App   
 ==========
 
-> If any of the information provided through out seems redundant or 
-> unnecessary to you, skip it. My purpose is to make the project helpful
-> not just to myself, but hopefully useful to others as well. 
-
-
 - Fullstack JavaScript Framework for web application development.
 
 - `Node.js` is a framework for writing server-side JavaScript applications. 
