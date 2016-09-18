@@ -1,6 +1,6 @@
 # configuring MEAN stack web application project
 
-> user story driven
+
 
 
 ### tech needed
