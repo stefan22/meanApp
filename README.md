@@ -33,7 +33,7 @@
 
  
 screenshot 1
-![index.html](meanApp/public/images/screenshots/first_screenshot.png "index.html")
+![index.html](public/images/screenshots/first_screenshot.png "index.html")
 
 
 
