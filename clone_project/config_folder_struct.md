@@ -5,11 +5,11 @@
 
 ### tech needed
 
-text editor, 
-mongoDB, 	 
-angularJS, 
-Express, and 
-Nodejs.
+- text editor, 
+- mongoDB, 	 
+- angularJS, 
+- Express, and 
+- Nodejs.
 
 
 ### Installation:
