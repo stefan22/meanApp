@@ -87,7 +87,7 @@
 
 	- `ctrl c` to shut down the server then
 	- `rename` file `server.js` inside of package.json file
-	- `rename` file `index.js` to `server.js`
+	- `rename` file `index.js` in your root directory to `server.js`
 	- `run` `node server.js` in the terminal again.
 
 
