@@ -4,8 +4,8 @@
 ### clone this project - not yet :)
 ===================================
 
-> That's the goal. Plenty of notes, easy to follow and
-> reusable...cause listing dev dependencies alone won't  :)
+> That's the goal. Notes, hopefully easy to follow and
+> reusable.
 
 
 ### All notes about this project inside of `clone_project` folder
