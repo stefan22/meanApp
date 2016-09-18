@@ -6,6 +6,8 @@
 
 > That's the goal. Hopefully easy to follow and reusable
 
+> That's the goal. Hopefully easy to follow and
+> reusable.
 
 
 ### All notes about this project inside of `clone_project` folder
