@@ -8,14 +8,14 @@
 
  ### Other components of the MEAN stack:
 
-- mongoDB
- 	- NoSQL database
+	- mongoDB
+ 		- NoSQL database
 
-- express
-	- node.js framework
+	- express
+		- node.js framework
 
-- angular
-	- js framework for building single page apps.
+	- angular
+		- js framework for building single page apps.
  
 
 
