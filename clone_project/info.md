@@ -18,27 +18,25 @@
 		- js framework for building single page apps.
 
 <br />
-
-
 ### Asynchronous, Event-driven and non Blocking
 
-`Asynchronous` literally means `not synchronous`. Not everyting needs
- to comeback at once (request - response) in order to get data back from the server.
- The application can continue on with other work while on the same thread.
- 
- Non blocking means that you aren't waiting for the i/of the call.
- (Input/Output). Non blocking, allows for asynchronous to work 
- because the server can only process one operation at a time afer all (single threaded).
-
- Event driven means that your applications sits there and waits for
- something to happen. Also, single threaded.
-
-`HTTP requests are synchronous`. You send a request and get a response.
-
-`Emails` are asynchronous - but not the best example.
-
- `Restaurant analogy` probably the best way to explain asynchronous calls.
- Google it, if still not clear. ("restaurant analogy for asynchronous calls")
+	`Asynchronous` literally means `not synchronous`. Not everyting needs
+	 to comeback at once (request - response) in order to get data back from the server.
+	 The application can continue on with other work while on the same thread.
+	 
+	 Non blocking means that you aren't waiting for the i/of the call.
+	 (Input/Output). Non blocking, allows for asynchronous to work 
+	 because the server can only process one operation at a time afer all (single threaded).
+	
+	 Event driven means that your applications sits there and waits for
+	 something to happen. Also, single threaded.
+	
+	`HTTP requests are synchronous`. You send a request and get a response.
+	
+	`Emails` are asynchronous - but not the best example.
+	
+	 `Restaurant analogy` probably the best way to explain asynchronous calls.
+	 Google it, if still not clear. ("restaurant analogy for asynchronous calls")
 
 
 
