@@ -1,7 +1,5 @@
 # Created using gitignore.io  
-# Nice little tool I found that generates the file for you.
-# It was too much node for this project so removed most of it.
-# And added .gitignore files for mac and windows - my work env.
+# .gitignore files for node, mac and windows - my work env.
 
 # 1. Node
 # 2. MacOS
