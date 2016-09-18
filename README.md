@@ -31,7 +31,8 @@
   
     2.2 getting up and running.
 
- 
+<hr />
+
 screenshot 1
 ![index.html](public/images/screenshots/first_screenshot.png "index.html")
 
