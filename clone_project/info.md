@@ -101,7 +101,7 @@
 
 
 
-```
+
 		
 	   **mongoDB**  		   **nodeAPI**					  **AngularJS**
 		=========				 =======						=========
@@ -114,7 +114,7 @@
 					 <-------   `get info or`          <-----  `ajax call` 	
 							    `post to DB`				   `to node api`
 
-```
+
 
 
 
