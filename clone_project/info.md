@@ -21,13 +21,12 @@
 ### Asynchronous, Event-driven and non Blocking
 
 `Asynchronous` literally means `not synchronous`. Not everyting needs
- to comeback at once in order to get data back from the server.
+ to comeback at once (request - response) in order to get data back from the server.
  The application can continue on with other work while on the same thread.
  
  Non blocking means that you aren't waiting for the i/of the call.
- (Input/Output). Non blocking, or asynchronous wouldn't work, because 
- the server can only process one operation at a time afer all, being 
- that it is single threaded.
+ (Input/Output). Non blocking, allows for asynchronous to work 
+ because the server can only process one operation at a time afer all (single threaded).
 
  Event driven means that your applications sits there and waits for
  something to happen. Also, single threaded.
