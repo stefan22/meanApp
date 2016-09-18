@@ -32,8 +32,8 @@
     2.2 getting up and running.
 
  
-
-
+screenshot 1
+![index.html](meanApp/public/images/screenshots/first_screenshot.png "index.html")
 
 
 
