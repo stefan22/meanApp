@@ -1,20 +1,20 @@
 # MEAN App   
-==========
+
 
 ### clone this project - not yet :)
-===================================
 
-> That's the goal. Plenty of notes, easy to follow and
-> reusable...cause listing dev dependencies alone won't  :)
+
+> That's the goal. Hopefully easy to follow and reusable
+
 
 
 ### All notes about this project inside of `clone_project` folder
-=================================================================
+
 
 ### clone_project folder:
 
 #### 1. info.md (my notes about this project)
-=============================================
+
 - a few notes about MEAN stack
 - what each of these technologies do,
 - what asynchrounous is, 
@@ -27,7 +27,7 @@
 
 
 #### 2. config_folder_struct (how to get started)
-=================================================
+
 2.1 tech involved
 2.2 getting up and running.
 
