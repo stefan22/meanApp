@@ -27,9 +27,9 @@
 
 #### 2. config_folder_struct (how to get started)
 
-  2.1 tech involved
+    2.1 tech involved
   
-  2.2 getting up and running.
+    2.2 getting up and running.
 
  
 
