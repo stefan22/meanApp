@@ -1,5 +1,4 @@
 # MEAN App   
-==========
 
 - Fullstack JavaScript Framework for web application development.
 
@@ -8,7 +7,6 @@
   `non-blocking` I/O model that makes it `perfect for data-intensive, real-time applications`.
 
  ### Other components of the MEAN stack:
-========================================
 
 - mongoDB
  	- NoSQL database
@@ -21,7 +19,6 @@
  
 
 ### Asynchronous, Event-driven and non Blocking
-===============================================
 
 `Asynchronous` literally means `not synchronous`. Not everyting needs
  to comeback at once in order to get data back from the server.
@@ -55,7 +52,6 @@
 
 
 ### Express
-===========
 
 - web framework for Node.js 
 - sort of what Sinatra is to Ruby - it allows you to organize your web
@@ -66,7 +62,6 @@
 
 
 ### mongoDB
-===========
 
 - A NoSQL Database (no relationship btw tables)
 - Document database
@@ -74,7 +69,6 @@
 - fast and scalable 
 
 ### Benefits of NoSQL
-=====================
 
 - their data models are designed to handle large volumes of rapidly
   changing data structures
@@ -96,7 +90,6 @@
 
 
 ### AngularJS
-=============
 
 - front end js framework created by Google
 - very dynamic and great for single page apps.
