@@ -91,9 +91,9 @@
 #### setting up config file
 
 
-- create a new file: config.js
-- then call the file with require from server.js and
-  call it inside of config port code block
+- create a new file: `config.js`
+- then call the file with `require` from `server.js` and
+  call it inside of `config port` code block
 
 #### inside server.js
 
@@ -101,12 +101,12 @@
 - bodyParser json to parse json 
 - initialize morgan to log all requests to console
   ex: `GET / 200 8.980 ms - 135`
-- under ready to call a file code block, add a
-  app.get call back function to load file index.html
-- create index.html in public > views > index.html
+- under `ready to call a file` code block, add an
+  app.get call back function to load file `index.html`
+- create `index.html` in `public > views > index.html`
   (add some text like hello world to it)
-- run server again node server.js
-- go to localhost:3000 and boom!
+- run server again `node server.js`
+- go to `localhost:3000` and boom!
 
 
 
