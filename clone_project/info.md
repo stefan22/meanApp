@@ -80,7 +80,6 @@
 - replication in case of outages
 
 
-
 <br />
 > Document database emerged as a result of new data environments, as well
   as programming. New cloud computing makes it easy now for data to be 
@@ -90,7 +89,7 @@
   each record and its associated data is thought of as a 'document' (object).
 
 
-<br /><br />
+<br />
 ### AngularJS
 
 - front end js framework created by Google
