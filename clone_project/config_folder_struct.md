@@ -49,7 +49,7 @@
 
 - insert `call dependencies` code block
 - insert `run new instance` code block
-- type `node index.js` in terminal 
+- type `node index.js` in terminal (to get server running)
   
 - if you have problems with npm permissions:
   you may have to change the permissions to
