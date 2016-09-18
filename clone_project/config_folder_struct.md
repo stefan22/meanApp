@@ -16,29 +16,32 @@
 	
 #### create folder and run package.json
 	
-- create a folder for your project (mkdir somename)
+- create a folder for your project `(mkdir somename)`
 - cd yourself inside of that folder.
-- make sure u got nodejs installed (node -v)
+- make sure u got nodejs installed `(node -v)`
 - if not download it first
 - once downloaded run:
 
-	=> npm init (to initialize your package.json file)
+	=> `npm init` (to initialize your package.json file)
 
 	- package.json allows you to manage all your npm packages locally
 	- easier to share with other developer cause let u specify which
 	  packages are needed for your project, and even the version.
 
-- press enter to go through the file configuration.
+- press `enter` to go through the file configuration.
 - open your project folder with your text editor (subl . if you're using sublime)
-- now go to your package.json file you just created using your text editor and 
-  locate main key value.
-  If you pressed enter during initialization it should be "index.js" 
-- create index.js in your top root directory folder - the only one u got right now 
+  	- To do something like `subl`, you go to your `.bash_profile` file, and 
+  	- add the path to your text editor. 
+  	- Also, you can call it anything you want using an `alias`.
+- next go to the `package.json` file you just created using your text editor and 
+  locate `main` key value. (this is your access point)
+  If you pressed enter multiple times during initialization it should be `index.js` 
+- create `index.js` in your top root directory folder - the only one u got right now 
 - install three packages using npm:
 
 	=> `npm install express body-parser morgan --save`
 
-	  (--save, saves it to your package.json file)
+	  (`--save`, saves it to your package.json file)
 
 - to check, if the modules have been install:
 
@@ -61,13 +64,13 @@
           
           => /usr/local
 
-    - if "/usr/local" is not your path, Google it.
+    - if `/usr/local` is not your path, Google it.
 
     - also, if you're doing fresh insall of node in MacOS Homebrew it.
 
         type: `brew install node` (it'll fix it automatically for u)
 
-    - Now, if "/usr/local", then change the owner of npm directories to current user
+    - Now, if `/usr/local`, then change the owner of npm directories to current user
         
         - type in your terminal: 
 
