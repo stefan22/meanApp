@@ -80,7 +80,7 @@
 - replication in case of outages
 
 
-<br /><br />
+
 
 > Document database emerged as a result of new data environments, as well
   as programming. New cloud computing makes it easy now for data to be 
