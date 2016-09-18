@@ -18,6 +18,7 @@
 	- js framework for building single page apps.
  
 
+
 ### Asynchronous, Event-driven and non Blocking
 
 `Asynchronous` literally means `not synchronous`. Not everyting needs
