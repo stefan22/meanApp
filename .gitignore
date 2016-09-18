@@ -1,0 +1,143 @@
+# Created using gitignore.io  
+# Nice little tool I found that generates the file for you.
+# It was too much node for this project so removed most of it.
+# And added .gitignore files for mac and windows - my work env.
+
+# 1. Node
+# 2. MacOS
+# 3. Windows
+# 4. other
+
+
+####################
+##### 1. Node ######
+####################
+
+# Logs
+# =====
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+# =============
+pids
+*.pid
+*.seed
+*.pid.lock
+
+
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+# ====================================================================================
+.grunt
+
+
+# Dependency directories
+# =======================
+node_modules
+jspm_packages
+
+
+# Optional npm cache directory
+# =============================
+.npm
+
+
+####################
+##### 2. MacOS #####
+####################
+
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+# ===========================
+Icon
+
+
+# Thumbnails
+# ============
+._*
+
+
+# Files that might appear in the root of a volume
+# =================================================
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+
+# Directories potentially created on remote AFP share
+# =====================================================
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+######################
+##### 3. Windows #####
+######################
+
+
+# Windows image file caches
+# ===========================
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+# ====================
+Desktop.ini
+
+# Recycle Bin used on file shares
+# =================================
+$RECYCLE.BIN/
+
+# Windows Installer files
+# =========================
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+# ===================
+*.lnk
+
+
+######################
+##### 3. Other #######
+######################
+
+/xsl_folder/**
+
+
+# MongoDB acct info
+# =================
+mongoDB_info.txt
+
+
+# clone_project folder
+# =================
+clone_project/**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
