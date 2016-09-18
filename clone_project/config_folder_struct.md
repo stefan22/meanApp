@@ -1,10 +1,10 @@
 # configuring MEAN stack web application project
-================================================
+
 > user story driven
 
 
 ### tech needed
-===============
+
 text editor, 
 mongoDB, 	 
 angularJS, 
@@ -15,7 +15,7 @@ Nodejs.
 ### Installation:
 	
 #### create folder and run package.json
-========================================	
+	
 - create a folder for your project (mkdir somename)
 - cd yourself inside of that folder.
 - make sure u got nodejs installed (node -v)
@@ -46,7 +46,7 @@ Nodejs.
 
 
 #### inside index.js file
-==========================
+
 - insert `call dependencies` code block
 - insert `run new instance` code block
 - type `node index.js` in terminal 
@@ -89,14 +89,14 @@ Nodejs.
 
 
 #### setting up config file
-===========================
+
 
 - create a new file: config.js
 - then call the file with require from server.js and
   call it inside of config port code block
 
 #### inside server.js
-=====================
+
 - bodyParser urlencoded to parse strings, images, videos etc
 - bodyParser json to parse json 
 - initialize morgan to log all requests to console
