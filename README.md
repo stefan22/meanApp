@@ -18,7 +18,7 @@
   - what each of these technologies do,
   - what asynchrounous is, 
   - why is NoSql a far better choice than MySql for this project,
-  - what are the advantages of a new document databases and 
+  - what are the advantages of new document databases and 
   - what do they mean by object based as opposed to real OODBs 
   - express is what Sinatra is to Ruby - an MVC for the back-end
   - angular a spa that handles all Ajax requests without refresh and 
