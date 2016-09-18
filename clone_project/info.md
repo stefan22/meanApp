@@ -39,7 +39,7 @@
 	 Google it, if still not clear. ("restaurant analogy for asynchronous calls")
 
 
-
+<br />
 > A function blocks when it waits for something to happen before returning. 
 > (like on a synchronous call)	
 
@@ -47,7 +47,7 @@
 > causes some work to happen in the background before triggering some future 
 > action in the application (as opposed to normal synchronous functions, 
 > which do everything they are going to do before returning)
-
+<br />
 
 
 ### Express
