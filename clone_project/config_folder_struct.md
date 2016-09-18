@@ -33,7 +33,7 @@
 - now go to your package.json file you just created using your text editor and 
   locate main key value.
   If you pressed enter during initialization it should be "index.js" 
-- create index.js
+- create index.js in your top root directory folder - the only one u got right now 
 - install three packages using npm:
 
 	=> `npm install express body-parser morgan --save`
