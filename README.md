@@ -4,7 +4,7 @@
 ### clone this project - not yet :)
 ===================================
 
-> That's the goal. Notes, hopefully easy to follow and
+> That's the goal. Hopefully easy to follow and
 > reusable.
 
 
