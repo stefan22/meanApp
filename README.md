@@ -29,7 +29,7 @@
 
     2.1 tech involved
   
-    2.2 getting up and running.
+    2.2 getting started
 
 <hr />
 
