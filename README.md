@@ -28,7 +28,7 @@
 #### 2. getting_started (steps to get your project up and running)
 
     
-
+<br />
 <hr />
 
 screenshot 1
