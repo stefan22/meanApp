@@ -6,6 +6,18 @@ var morgan = require('morgan');
 // require('./filename');
 // object data now available through config var.
 var config = require('./config');
+// connect your mongo database to your node.js application
+// install mongoose
+// npm install mongoose --save 
+var mongoose = require('mongoose');
+//connect to db
+mongoose.connect(config.database, function(err) {
+	if (err) {
+		console.log('Say What:\n' + err);
+	} else {
+		console.log('connected to database');
+	}
+})
 
 // run new instance
 var app = express();

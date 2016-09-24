@@ -7,7 +7,7 @@
 
 module.exports = {
 
-	"database": "",							//empty for now
+	"database": "mongodb://root:2222@ds033956.mlab.com:33956/awsmong",							//empty for now
 	"port": process.env.PORT || 3000,
 	"secretKey":"meanapp"					
 };
