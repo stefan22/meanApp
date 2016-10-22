@@ -16,7 +16,7 @@
     works well with mongodb, and nodejs.
 
 
-#### 2. getting_started (steps to get your project up and running)
+#### 2. getting_started (as i go)
 
 <br />    
 <br />
