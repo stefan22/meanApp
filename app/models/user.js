@@ -22,7 +22,7 @@ var UserSchema = new Scheema({
 		// later if we query user, we don't wanna query passwd.
 		select: false
 	}
-});
+});  // UserSchema object
 
 
 // hashing password before reaching database
@@ -46,7 +46,19 @@ UserSchema.pre('save', function(next) {
 
 	});
 
-});
+});   // UserSchema.pre
+
+
+// will compare a passwd typed in and one in the database
+UserSchema.methods.comparePassword = function(password) {
+	var user = this;
+	// bcryptm method for comparing passwds
+	// passwd just typed in and passwd in db
+	return bcrypt.compareSync(password, user.password);
+}
+
+
+
 
 
 
