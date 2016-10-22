@@ -1,4 +1,6 @@
-# MEAN App                   <<< work in progress  >>>      
+# MEAN App                   
+
+###   <<< work in progress  >>>      
 
 
 ### mean_project folder:
