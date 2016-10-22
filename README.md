@@ -1,16 +1,10 @@
 # MEAN App   
 
-
-### clone this project - not yet :)
-
-
-> That's the goal. Hopefully easy to follow and reusable
+### <<< work in progress  >>>
 
 
-### All notes about this project inside of `clone_project` folder
 
-
-### clone_project folder:
+### mean_project folder:
 
 #### 1. tech_involved (my notes about this project)
 
